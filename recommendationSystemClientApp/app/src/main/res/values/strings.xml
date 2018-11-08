@@ -1,0 +1,10 @@
+<!--
+  ~ Copyright (c) 2018, Lefteris Harteros, All rights reserved.
+  ~
+  -->
+
+<resources>
+    <string name="app_name">recommendationSystemClientApp</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_maps2">Map</string>
+</resources>
